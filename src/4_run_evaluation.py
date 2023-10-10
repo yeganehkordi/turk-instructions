@@ -436,8 +436,6 @@ class Evaluation:
                 "Summarization (RLUE) 1",
                 "Explanation Acceptability (CommonsenseQA)",
                 "Sentence Formality Annotation",
-                "Congressional Bills 5 point" ,
-                "BiSECT Multilingual Evaluation"
             ]:
                 continue
 
